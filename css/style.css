@@ -3403,14 +3403,6 @@ body::after {
   .cloud8 {
     display: none;
   }
-
-  .cloud9 {
-    display: none;
-  }
-
-  .cloud10 {
-    display: none;
-  }
 }
 
 @media (max-width: 390px) {
